@@ -1,7 +1,7 @@
 # Scrape-Translate
-	This script downloads HTML files from a specified website using the HTTrack command,
-	translates the text using the Google Translate API,
-	and writes the translated text back into the original HTML files.
+This script downloads HTML files from a specified website using the HTTrack command,
+translates the text using the Google Translate API,
+and writes the translated text back into the original HTML files.
 
 ## Requirements
 - Python 3.6 or later
