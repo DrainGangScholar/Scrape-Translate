@@ -5,9 +5,13 @@
 
 ## Requirements
 1.Python 3.6 or later
+
 2.BeautifulSoup 4.9.3 or later
+
 3.Translate 3.6.1 or later
+
 4.HTTrack 3.49-2 or later
+
 ## Installation
 	Clone this repository or download the script files to your local machine.
 	
