@@ -1,5 +1,6 @@
 # Scrape-Translate
-	This script downloads HTML files from a specified website using the HTTrack command, translates the text using the Google Translate API,
+	This script downloads HTML files from a specified website using the HTTrack command,
+	translates the text using the Google Translate API,
 	and writes the translated text back into the original HTML files.
 
 ## Requirements
