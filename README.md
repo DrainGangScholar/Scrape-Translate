@@ -4,10 +4,10 @@
 	and writes the translated text back into the original HTML files.
 
 ## Requirements
--Python 3.6 or later
--BeautifulSoup 4.9.3 or later
--Translate 3.6.1 or later
--HTTrack 3.49-2 or later
+- Python 3.6 or later
+- BeautifulSoup 4.9.3 or later
+- Translate 3.6.1 or later
+- HTTrack 3.49-2 or later
 ## Installation
 	Clone this repository or download the script files to your local machine.
 	
