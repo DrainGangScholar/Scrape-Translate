@@ -9,9 +9,9 @@ Requirements
 	HTTrack 3.49-2 or later
 	Installation
 	Clone this repository or download the script files to your local machine.
-
+	
+Install HTTrack using your system's package manager or download it from the official website (https://www.httrack.com/).
 Install the required Python modules using pip:
-	Install HTTrack using your system's package manager or download it from the official website (https://www.httrack.com/).
 	
 	pip install beautifulsoup4 translate
 	
