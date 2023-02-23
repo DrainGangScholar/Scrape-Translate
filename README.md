@@ -4,14 +4,10 @@
 	and writes the translated text back into the original HTML files.
 
 ## Requirements
-1.Python 3.6 or later
-
-2.BeautifulSoup 4.9.3 or later
-
-3.Translate 3.6.1 or later
-
-4.HTTrack 3.49-2 or later
-
+-Python 3.6 or later
+-BeautifulSoup 4.9.3 or later
+-Translate 3.6.1 or later
+-HTTrack 3.49-2 or later
 ## Installation
 	Clone this repository or download the script files to your local machine.
 	
@@ -22,9 +18,9 @@
 	pip install beautifulsoup4 translate
 	```
 ## Configuration
-1.Edit the `TO_LANG` variable in the script to set the target language for translation. The default is 'hi' (Hindi).
-2.Edit the `EXECUTE_CMD` variable in the script to specify the HTTrack command to download the HTML files.
-3.The default is ['httrack', 'https://subslikescript.com/movies', '-O', './downloaded'],which downloads the website https://subslikescript.com/movies and stores it in the ./downloaded directory.
+1. Edit the `TO_LANG` variable in the script to set the target language for translation. The default is 'hi' (Hindi).
+2. Edit the `EXECUTE_CMD` variable in the script to specify the HTTrack command to download the HTML files.
+3. The default is ['httrack', 'https://subslikescript.com/movies', '-O', './downloaded'],which downloads the website https://subslikescript.com/movies and stores it in the ./downloaded directory.
 ## Usage
 Run the script using the following command:
 	```
