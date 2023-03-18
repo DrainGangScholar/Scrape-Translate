@@ -23,11 +23,10 @@ pip install beautifulsoup4 translate
 
 ## Configuration
 
-1. Edit the `TO_LANG` variable in the script to set the target language for
+- Edit the `target_lang` variable in the script to set the target language for
 translation. The default is 'hi' (Hindi).
-2. Edit the `EXECUTE_CMD` variable in the script to specify the HTTrack command
-to download the HTML files.
-3. The default is
+- Edit the `cmd` variable in the script to specify the HTTrack command
+to download the HTML files. The default is
 `['httrack', 'https://subslikescript.com/movies', '-O', './downloaded']`, which
 downloads the website https://subslikescript.com/movies and stores it in the
 `./downloaded` directory.
