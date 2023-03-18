@@ -11,7 +11,7 @@ and writes the translated text back into the original HTML files.
 ## Installation
 1. Clone this repository or download the script files to your local machine.	
 2. Install HTTrack using your system's package manager or download it from the official website (https://www.httrack.com/).
-3.Install the required Python modules using pip:
+3. Install the required Python modules using pip:
 ```
 pip install beautifulsoup4 translate
 ```
